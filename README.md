@@ -1,7 +1,7 @@
 # 🛒 Super Store Sales Dashboard Analysis
 
 ![Dashboard Banner](https://img.shields.io/badge/Project-Sales%20Dashboard-blue)
-![Tool](https://img.shields.io/badge/Tool-Power%20BI%20%7C%20Excel-green)
+![Tool](https://img.shields.io/badge/Tool-Excel-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
