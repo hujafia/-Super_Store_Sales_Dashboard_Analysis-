@@ -25,7 +25,7 @@ This project demonstrates strong analytical thinking, data visualization skills,
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" width="800">
+  <img src="Dashboard Image.png" width="800">
 </p>
 
 
