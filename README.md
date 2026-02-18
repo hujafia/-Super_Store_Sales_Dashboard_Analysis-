@@ -22,6 +22,12 @@ The dashboard analyzes:
 This project demonstrates strong analytical thinking, data visualization skills, and business insight generation.
 
 ---
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard.png" width="800">
+</p>
+
 
 ## 📊 Key Performance Indicators (KPIs)
 
